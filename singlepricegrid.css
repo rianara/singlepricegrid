@@ -11989,7 +11989,7 @@ h1, .h1, h2, .h2, p {
 
 @media (min-width: 768px) {
   .container {
-    max-width: 700px;
+    max-width: 690px;
   }
 }
 @media (max-width: 575.98px) {
@@ -12015,20 +12015,21 @@ h1, .h1, h2, .h2, p {
   background: white;
 }
 .community h1, .community .h1 {
-  color: #38e5d5;
+  color: #2bb4b1;
   margin-bottom: 1.3rem;
 }
 .community p {
   color: #98a6bd;
 }
 .community p > span {
-  color: #c0df34;
+  color: #bedf32;
   margin-bottom: 0.6rem;
   display: inline-block;
+  font-size: 18px;
 }
 
 .subscription {
-  background: #37cfcc;
+  background: #2bb4b1;
   color: #ffffff;
 }
 .subscription p > .big-text {
@@ -12041,7 +12042,7 @@ h1, .h1, h2, .h2, p {
   margin-left: 0.8rem;
 }
 .subscription button {
-  background: #c0df34;
+  background: #bedf32;
   color: #ffffff;
   border-radius: 5px;
   text-align: center;
@@ -12058,7 +12059,7 @@ h1, .h1, h2, .h2, p {
 }
 
 .whyus {
-  background: #38e5d5;
+  background: #49bebd;
   color: #ffffff;
 }
 .whyus p {

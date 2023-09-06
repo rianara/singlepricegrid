@@ -20,7 +20,7 @@ h1, h2, p {
 
 @include media-breakpoint-up(md){
   .container {
-    max-width: 700px;
+    max-width: 690px;
   }
 }
 
@@ -50,7 +50,7 @@ h1, h2, p {
   background: white;
 
   & h1 {
-    color: #38e5d5;
+    color: #2bb4b1;
     margin-bottom: 1.3rem;
   }
 
@@ -60,16 +60,17 @@ h1, h2, p {
   }
 
   & p > span{
-    color: #c0df34;
+    color: #bedf32;
     margin-bottom: 0.6rem;
     display: inline-block;
+    font-size: 18px;
   }
-
+  
   
 }
 
 .subscription {
-  background: #37cfcc;
+  background: #2bb4b1;
   color: #ffffff;
 
   & p > .big-text{
@@ -85,7 +86,7 @@ h1, h2, p {
   }
 
   & button {
-    background: #c0df34;
+    background: #bedf32;
     color: #ffffff;
     border-radius: 5px;
     text-align: center;
@@ -104,7 +105,7 @@ h1, h2, p {
 }
 
 .whyus {
-  background: #38e5d5;
+  background: #49bebd;
   color: #ffffff;
 
   p {
